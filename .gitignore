@@ -1,3 +1,6 @@
 # catkin
 **/catkin_ws/build/*
 **/catkin_ws/devel/*
+
+# Cmake build directory
+**/_build/*
