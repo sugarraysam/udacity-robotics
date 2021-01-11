@@ -4,3 +4,7 @@
 
 # Cmake build directory
 **/_build/*
+**/.cache/*
+
+# vscode clangd
+**/compile_commands.json
