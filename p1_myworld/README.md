@@ -12,7 +12,6 @@
 4. Import at least one model from the Gazebo online library and implement it in your existing Gazebo world.
 5. Write a C++ World Plugin to interact with your world. Your code should display `Welcome to My World!` message as soon as you launch the Gazebo world file.
 
-
 # Running the simulation
 
 Make sure you have gazebo installed on your development machine and simply run:

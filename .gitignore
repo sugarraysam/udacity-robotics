@@ -1,6 +1,7 @@
 # catkin
-**/catkin_ws/build/*
-**/catkin_ws/devel/*
+**/build/*
+**/devel/*
+**/.catkin_workspace
 
 # Cmake build directory
 **/_build/*
@@ -8,3 +9,4 @@
 
 # vscode clangd
 **/compile_commands.json
+**/.cache
