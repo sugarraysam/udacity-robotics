@@ -7,7 +7,7 @@ Exercices and materials for the [Robotics Software Engineer Nanodegree by Udacit
 | Name                                   | Description                                                   |
 | -------------------------------------- | ------------------------------------------------------------- |
 | [Build My World](p1_myworld/README.md) | Build a basic Gazebo World with a Building and a custom Model |
-| [Go Chase It!](p2_chase_it/README.md)  | TODO                                                          |
+| [Go Chase It!](p2_chase_it/README.md)  | Build a ROS package with two nodes to chase a white ball      |
 
 # Resources
 
